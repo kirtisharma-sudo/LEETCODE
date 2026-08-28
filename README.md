@@ -24,6 +24,7 @@ My focus is not just on solving problems, but on understanding the underlying **
 Solutions are primarily written in:
 
 - Python
+- C
 
 More languages may be added as I progress.
 
